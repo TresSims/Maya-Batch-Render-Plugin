@@ -1,23 +1,24 @@
-# Maya-Batch-Render-Plugin
+ Maya-Batch-Render-Plugin <br />
 
-##My own custom plugin for Batch rendering in maya. 
+My own custom plugin for Batch rendering in maya. <br />
 
 
 Just an exercise in creating configurable plugins in maya.
 
-###Goals:
+Goals:
 
-~~Register scipt as plugin. (and deregister) ~~
-~~Register New Command in maya for rendering a sequence~~
-~~Use project directory for file outputs~~
-Create Option Box to Custom configure settings
-> Set Frame Range
-> Set File Export Type
-> Set Export location
+~~Register scipt as plugin. (and deregister)~~<br />
+~~Register New Command in maya for rendering a sequence~~<br />
+~~Use project directory for file outputs~~<br />
+Create Option Box to Custom configure settings<br />
+> Set Frame Range<br />
+> Set File Export Type<br />
+> Set Export location<br />
+
 Register menu options for easy access
 
 
-#Installation:
+Installation:
 
 To install this plugin drop the MayaBatchRenderPlugin.py in your Maya Plugin Directory, something like:
 >C:\Users\YOUR_NAME\Documents\maya\2017\plug-ins
